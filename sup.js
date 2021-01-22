@@ -27,6 +27,7 @@ function afterClick(){
     }
     else{
         alert("SIGN UP SUCCESSFULLY")
+        alert("Thanks For Visiting")
         x.value =null
         y.value=null
         z.value=null
