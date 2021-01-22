@@ -42,6 +42,10 @@ button{
     border-radius: 5px;
 }
 
+
+#pssword::-webkit-input-placeholder{
+    font-size: smaller;
+}
 @media screen and (max-width:700px){
     .container{
         margin-right: 2%;
